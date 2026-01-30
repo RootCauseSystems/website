@@ -1,1 +1,1 @@
-# Journal index
+# Journal
