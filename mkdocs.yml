@@ -27,6 +27,7 @@ plugins:
   - search
   - blog:
     blog_dir: journal
+      authors_profiles: true
 
 nav:
   - Root Cause Systems: index.md
