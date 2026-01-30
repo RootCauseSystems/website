@@ -1,11 +1,14 @@
+markdown_extensions:
+  - md_in_html
+
 site_name: Root Cause Systems
 site_url: https://rootcausesystems.com
 repo_url: https://github.com/RootCauseSystems/website
 
 theme:
   name: material
-  logo: /assets/logo-RCS.png
-  favicon: /assets/logo-RCS.png
+  logo: assets/logo-RCS.png
+  favicon: assets/logo-RCS.png
   palette:
     scheme: slate
   features:
