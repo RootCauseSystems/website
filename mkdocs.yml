@@ -22,3 +22,13 @@ markdown_extensions:
 # This must be all the way to the left!
 extra_css:
   - stylesheets/cyberpunk.css
+
+plugins:
+  - search
+  - blog:
+    blog_dir: journal
+
+nav:
+  - Root Cause Systems: index.md
+  - Tools: tools/auditor.md
+  - Journal : journal/index.md

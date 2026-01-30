@@ -2,12 +2,12 @@
 
 Run a real-time security audit of any domain directly from your browser.
 
-<link rel="stylesheet" href="https://psyscript.net/releases/2024.1.1/core.css"/>
-<scrpit type="module" src="https://psyscript.net/releases/2024.1.1/ocre.js"></script>
+<link rel="stylesheet" href="https://pyscript.net/releases/2024.1.1/core.css"/>
+<script type="module" src="https://pyscript.net/releases/2024.1.1/core.js"></script>
 
 <div class="terminal-box" style="background: #1e1e1e; padding: 20px; border-radius: 8px; border: 1px solid #00ff00;">
     <input type="text" id="url-input" placeholder="google.com" style="width: 80%; padding: 10px; background: #333; color: #fff; border: 1px solid #555;">
-    <button ps-click="run_audit" style="padding: 10px; background: #00ff00; color: #000; font-weight: bold; cursor: pointer;">RUN AUDIT</button>
+    <button py-click="run_audit" style="padding: 10px; background: #00ff00; color: #000; font-weight: bold; cursor: pointer;">RUN AUDIT</button>
 
     <pre id="output" style="color: #00ff00; ,margin-top: 20px; font-family: 'Courier New', monospace;"></pre>
 
@@ -20,7 +20,7 @@ async def run_audit(event):
     url_input = js.document.getElementById("url-input").value
     output_div = js.document.getElementById("output")
 
-    If not url_input.startswith("http"):
+    if not url_input.startswith("http"):
         url = f"https://{url_input}"
     else:
         url = url_input
@@ -42,5 +42,5 @@ async def run_audit(event):
 
         output_div.innerHTML += "\n".join(results)
     except Exception as e:
-        output_div.innerHTML += f"Error: {str{e}}\n(Note: some sites block browser-based auditing via CORS policies.)"
+        output_div.innerHTML += f"Error: {str(e)}\n(Note: some sites block browser-based auditing via CORS policies.)"
 </py-script>
