@@ -2,14 +2,14 @@
 
 Run a real-time security audit of any domain directly from your browser.
 
+<div>
 <link rel="stylesheet" href="https://pyscript.net/releases/2024.1.1/core.css"/>
 <script type="module" src="https://pyscript.net/releases/2024.1.1/core.js"></script>
 
 <div class="terminal-box" style="background: #1e1e1e; padding: 20px; border-radius: 8px; border: 1px solid #00ff00;">
     <input type="text" id="url-input" placeholder="google.com" style="width: 80%; padding: 10px; background: #333; color: #fff; border: 1px solid #555;">
     <button py-click="run_audit" style="padding: 10px; background: #00ff00; color: #000; font-weight: bold; cursor: pointer;">RUN AUDIT</button>
-
-<pre id="output" style="color: #00ff00; margin-top: 20px; font-family: 'Courier New', monospace;"></pre>
+    <pre id="output" style="color: #00ff00; margin-top: 20px; font-family: 'Courier New', monospace;"></pre>
 </div>
 
 <py-script>
