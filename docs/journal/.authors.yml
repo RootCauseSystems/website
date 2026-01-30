@@ -1,5 +1,6 @@
-rob:
-  name: rob
-  description: Aspiring AI Security Engineer
-  avatar: https://github.com/RootCauseSystems.png
-  url: https://github.com/RootCauseSystems
+authors:
+  rob:
+    name: rob
+    description: Aspiring AI Security Engineer
+    avatar: https://github.com/RootCauseSystems.png
+    url: https://github.com/RootCauseSystems
