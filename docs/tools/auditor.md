@@ -43,4 +43,4 @@ async def run_audit(event):
         output_div.innerHTML += "\n".join(results)
     except Exception as e:
         output_div.innerHTML += f"Error: {str{e}}\n(Note: some sites block browser-based auditing via CORS policies.)"
-    </py-script>
+</py-script>
