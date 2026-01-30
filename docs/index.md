@@ -1,38 +1,42 @@
 # Root Cause Systems
 
-<div style="text-align: center">
-  <img src="assets/logo-RCS.png" alt="Root Cause Systems Logo" width="350">
+<div style="text-align: center;">
+  <img src="/assets/logo-RCS.png" alt="Root Cause Systems Logo" width="350">
 </div>
 
 ---
 
-# Reliable Systems. Root Level Solutions.
+# Systems Thinking. Root Level Security.
 
-**Root Cause Systems** is the engineering portfolio of a **Retired U.S. Navy Chief** and **IT Professional** dedicated to the discipline of secure, resilient infrastructure.
+**Root Cause Systems** is the professional sandbox of **Rob Hicks**, a Security Compliance Manager and retired U.S. Navy Chief (ETNC). I am leveraging two decades of high-consequence nuclear operations to catapult into the field of **AI Security Engineering**.
 
-We believe that true security isn't just about patching bugs—it's about engineering the solution at the root.
+In the Nuclear Navy, we learned that systems don't just fail—they are engineered into failure. I am applying that same rigor to the modern AI stack.
 
-### **The Mission**
+### **The Pivot: From Compliance to Adversarial Defense**
 
-We are transitioning from traditional IT operations to high-performance systems engineering. This site documents the build-out of secure, automated infrastructure using the modern "Systems Stack":
+I currently manage security compliance, but my mission is to move "Left of Bang." I am building the technical bridge between **regulatory requirements** and **adversarial resilience** in AI.
 
-* **Python:** Automation, AI integration, and Tooling.
-* **Go (Golang):** High-concurrency systems and binary deployment.
-* **Cloud Native:** Infrastructure as Code (IaC) and serverless architecture.
+* **The Foundation:** 20 years of managing nuclear-grade electronics on submarines—where "standard" wasn't good enough.
+* **The Current Bridge:** Navigating security compliance frameworks to understand the governance models that will eventually regulate AI.
+* **The Future Aim:** Engineering AI systems that are secure by design, focusing on prompt injection defense and model integrity.
 
-### **Active Status**
+### **The Intelligence Stack**
 
-> *"We don't just patch the symptom; we engineer the solution."*
+I am documenting my progress through a project-based roadmap:
 
-This domain currently serves as a **Documentation Hub** and **Project Sandbox**. Services and tools are in active development.
+* **Automated Hardening:** Using **Python** to build security tools like my [Security Header Auditor](/tools/auditor).
+* **Edge Intelligence:** Engineering **V.E.R.A.**—a private AI instance running on a **Raspberry Pi 5** to test hardware-level vulnerabilities.
+* **Core Systems:** Managing a centralized Home AI on a dedicated **Ubuntu Server** for high-performance model testing.
 
 ---
 
-### **The Philosophy**
+### **The Responsibility Mandate**
 
-> *"Responsibility is a unique concept... You may share it with others, but your portion is not diminished. You may delegate it, but it is still with you... Unless you can point your finger at the man who is responsible when something goes wrong, then you have never had anyone really responsible."*
+> *"Responsibility is a unique concept... Unless you can point your finger at the man who is responsible when something goes wrong, then you have never had anyone really responsible."*
 >
-> — **Admiral Hyman G. Rickover**, Father of the Nuclear Navy
+> — **Admiral Hyman G. Rickover**
 
-<br>
+At **Root Cause Systems**, we don't just patch symptoms. We engineer the solution at the source.
+
+---
 <small>Root Cause Systems © 2026. Secure by Design.</small>
