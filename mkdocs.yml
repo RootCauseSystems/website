@@ -34,7 +34,7 @@ plugins:
   - search
   - blog:
       blog_dir: journal
-      authors_file: journal/.authors.yml  # Note the removal of {blog}/
+      authors_file: journal/.authors.yml  # Direct path from the 'docs' folder
 
 nav:
   - Root Cause Systems: index.md
