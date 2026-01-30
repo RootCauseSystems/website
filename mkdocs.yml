@@ -26,7 +26,6 @@ markdown_extensions:
       anchor_linenums: true
   - pymdownx.superfences
 
-# This must be all the way to the left!
 extra_css:
   - stylesheets/cyberpunk.css
 
@@ -34,9 +33,10 @@ plugins:
   - search
   - blog:
       blog_dir: journal
-      authors_file: journal/.authors.yml  # Direct path from the 'docs' folder
+      authors_file: journal/.authors.yml
 
 nav:
   - Root Cause Systems: index.md
+  - Roadmap: roadmap.md
   - Tools: tools/auditor.md
   - Journal: journal/index.md
