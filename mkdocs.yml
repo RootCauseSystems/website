@@ -4,8 +4,8 @@ repo_url: https://github.com/RootCauseSystems/website
 
 theme:
   name: material
-  logo: assets/logo-RCS.png
-  favicon: assets/logo-RCS.png
+  logo: /assets/logo-RCS.png
+  favicon: /assets/logo-RCS.png
   palette:
     scheme: slate
   features:
