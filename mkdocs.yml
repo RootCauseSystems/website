@@ -26,10 +26,10 @@ extra_css:
 plugins:
   - search
   - blog:
-    blog_dir: journal
+      blog_dir: journal
       authors_profiles: true
 
 nav:
   - Root Cause Systems: index.md
   - Tools: tools/auditor.md
-  - Journal : journal/index.md
+  - Journal: journal/index.md
