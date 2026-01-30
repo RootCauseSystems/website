@@ -7,8 +7,8 @@ repo_url: https://github.com/RootCauseSystems/website
 
 theme:
   name: material
-  logo: assets/logo-RCS.png
-  favicon: assets/logo-RCS.png
+  logo: /assets/logo-RCS.png
+  favicon: /assets/logo-RCS.png
   palette:
     scheme: slate
   features:
@@ -30,7 +30,7 @@ plugins:
   - search
   - blog:
       blog_dir: journal
-      authors_profiles: true
+      authors_file: "{blog}/.authors.yml" # Explicitly point to your file
 
 nav:
   - Root Cause Systems: index.md

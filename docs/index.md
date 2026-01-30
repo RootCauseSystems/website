@@ -1,6 +1,6 @@
 # Root Cause Systems
 
-<div align="center">
+<div style="text-align: center">
   <img src="/assets/logo-RCS.png" alt="Root Cause Systems Logo" width="350">
 </div>
 
