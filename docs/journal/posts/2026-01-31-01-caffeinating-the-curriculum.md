@@ -1,7 +1,7 @@
 ---
 date: 2026-01-31 10:39:33
 authors:
-  - Rob
+  - rob
 categories:
   - Golang
   - React

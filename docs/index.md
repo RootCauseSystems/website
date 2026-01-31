@@ -24,7 +24,7 @@ I currently manage security compliance, but my mission is to move "Left of Bang.
 
 I am documenting my progress through a project-based roadmap:
 
-* **Automated Hardening:** Using **Python** to build security tools like my [Security Header Auditor](/tools/auditor.md).
+* **Automated Hardening:** Using **Python** to build security tools like my [Security Header Auditor](tools/auditor.md).
 * **Edge Intelligence:** Engineering **V.E.R.A.**—a private AI instance running on a **Raspberry Pi 5** to test hardware-level vulnerabilities.
 * **Core Systems:** Managing a centralized Home AI on a dedicated **Ubuntu Server** for high-performance model testing.
 
