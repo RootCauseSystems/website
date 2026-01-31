@@ -8,7 +8,7 @@
 
 # Systems Thinking. Root Level Security.
 
-**Root Cause Systems** is the professional sandbox of **Rob Hicks**, a Security Compliance Manager and retired U.S. Navy Chief (ETNC). I am leveraging two decades of high-consequence nuclear operations to catapult into the field of **AI Security Engineering**.
+**Root Cause Systems** is the professional sandbox of **Rob**, a Security Compliance Manager and retired U.S. Navy Chief (ETNC). I am leveraging two decades of high-consequence nuclear operations to catapult into the field of **AI Security Engineering**.
 
 In the Nuclear Navy, we learned that systems don't just fail—they are engineered into failure. I am applying that same rigor to the modern AI stack.
 
