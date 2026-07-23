@@ -22,6 +22,7 @@ The feed is live, stable, and completely isolated from my primary infrastructure
 
 The Roadmap (Coming Soon):
 To optimize the utility of the feed, I am already engineering the next deployment cycle with the following upgrades:
+
 *   **Search and Filtering:** Implementing robust query capabilities to allow users to isolate specific threats instantly.
 *   **Taxonomy Expansion:** Adding more granular categories to properly classify edge-case vulnerabilities and drastically reduce the size of the generic "Other" section.
 *   **Executive Summaries:** Translating complex technical mechanics into less technical, risk-based summaries tailored for executives and decision-makers.
