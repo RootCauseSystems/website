@@ -1,6 +1,7 @@
 # Security Header Auditor (Experimental)
 
 Run a real-time security audit of any domain directly from your browser.
+**(Note: some sites block browser-based auditing via CORS policies.)**
 
 <div>
 <link rel="stylesheet" href="https://pyscript.net/releases/2024.1.1/core.css"/>
