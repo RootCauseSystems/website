@@ -28,8 +28,6 @@ The goal of this phase is to study for and pass the ISC2 CISSP Certification
 
 **Goal:** **Study for and pass the ISC2 CISSP Certification**
 
-# CISSP (Certified Information Systems Security Professional)
-
 ## 📌 Certification Overview
 The CISSP is a globally recognized, advanced-level cybersecurity certification validating deep technical knowledge and managerial experience to effectively design, implement, and manage an organization's overall security posture. It proves competency in GRC (Governance, Risk, and Compliance) and business continuity.
 
