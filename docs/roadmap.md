@@ -28,15 +28,15 @@ The goal of this phase is to study for and pass the ISC2 CISSP Certification
 
 **Goal:** **Study for and pass the ISC2 CISSP Certification**
 
-### 📌 Certification Overview
+### **📌 Certification Overview**
 The CISSP is a globally recognized, advanced-level cybersecurity certification validating deep technical knowledge and managerial experience to effectively design, implement, and manage an organization's overall security posture. It proves competency in GRC (Governance, Risk, and Compliance) and business continuity.
 
-### 🎯 Target Audience
+### **🎯 Target Audience**
 * Mid-to-senior level cybersecurity professionals
 * Security Managers, Security Architects, and Consultants
 * Aspiring Chief Information Security Officers (CISOs)
 
-### 🏗️ The 8 CISSP Domains
+### **🏗️ The 8 CISSP Domains**
 The curriculum is based on the [ISC2 CISSP Exam Outline](https://www.isc2.org/certifications/cissp/cissp-certification-exam-outline) and covers eight core domains:
 
 1. **Security and Risk Management (15%)**
@@ -48,13 +48,13 @@ The curriculum is based on the [ISC2 CISSP Exam Outline](https://www.isc2.org/ce
 7. **Security Operations (13%)**
 8. **Software Development Security (10%)**
 
-### 🛠️ Prerequisites & Requirements
+### **🛠️ Prerequisites & Requirements**
 To become fully certified, candidates must pass the exam and meet the following criteria:
 * **Experience:** Minimum of 5 years of cumulative, paid work experience in at least two of the 8 CISSP domains. *(Note: A 4-year college degree or holding certain other certifications can waive one year of experience).*
 * **Endorsement:** Requires endorsement by an active, certified ISC2 professional.
 * *Don't have the experience yet?* You can pass the exam to become an **Associate of ISC2** and gain up to 6 years to acquire the required experience. 
 
-### 📝 Exam Format
+### **📝 Exam Format**
 * **Format:** Computer Adaptive Testing (CAT) for English exams
 * **Length:** 100 to 150 questions
 * **Time Limit:** 3 hours
